@@ -3,7 +3,7 @@
 
 Follow along code
 
-#Service API
+# Service API
 DatingAPP.API contains C# Web API services for CURD operations
-#Clinet
+# Clinet
 DatingAPP.SPA contains Angular Single Page Application 	
